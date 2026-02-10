@@ -30,7 +30,7 @@ dataset.nunique()
 
 Plots are created to better comprehend and describe the data, which enables to create a robust and more comprehensive model. Creating a pairplot to pairwise relationships between variables in the dataset.
 
-[!Pairplot Smoker](https://github.com/Ktiscar1/Healthcare-Insurance/blob/3acb4738e6ed431a4daf5361478ae77e4df9f24a/pairplothealth.png)
+![Pairplot Smoker](https://github.com/Ktiscar1/Healthcare-Insurance/blob/3acb4738e6ed431a4daf5361478ae77e4df9f24a/pairplothealth.png)
 
 Insights:
 
