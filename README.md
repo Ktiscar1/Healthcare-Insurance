@@ -30,7 +30,7 @@ dataset.nunique()
 
 Plots are created to better comprehend and describe the data, which enables to create a robust and more comprehensive model. Creating a pairplot to pairwise relationships between variables in the dataset.
 
-[!Pairplot Smoker]()
+[!Pairplot Smoker](https://github.com/Ktiscar1/Healthcare-Insurance/blob/3acb4738e6ed431a4daf5361478ae77e4df9f24a/pairplothealth.png)
 
 Insights:
 
@@ -119,7 +119,7 @@ prediction = lr.predict(x_test)
 
 After the prediction is generated using linear regresion is possible to generate plots in order to understand the data.
 
-![Scatter Plot]()
+![Scatter Plot](https://github.com/Ktiscar1/Healthcare-Insurance/blob/d38b7a5de31ae0291bac83f39a68980ed7faa398/scatter%20plot%20health.png)
 
 The scatter plot is generated using x=y_test and y=prediciton. The objective of this graph is to observe the model performance by comparing actual values from the test set against values of the prediction (model).
   * The scatter plot shows that there is a strong possitive connection between the predictions and the actual values.
@@ -130,7 +130,7 @@ The scatter plot is generated using x=y_test and y=prediciton. The objective of 
 
 The correlation heatmap provides a mathematical score for how much each feature influences the insurance charges.
 
-![Heatmap]()
+![Heatmap](https://github.com/Ktiscar1/Healthcare-Insurance/blob/9442e06e60874404f135e2fa98d148907a79559a/heatmap%20health.png)
 
   * The model place a massive weight on the smoker variable (0.79).
   * Being male or female has no impact into the cost of insurance.
