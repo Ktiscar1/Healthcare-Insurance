@@ -91,7 +91,7 @@ dataset1.head()
 
 # Machine Learning Modeling
 
-Linear regresion used in otder to create "best fit line" that predicts the charges.
+Linear regresion used in order to create "best fit line" that predicts the charges.
 
 In this section of the analysis the data set is inyected into the model. "X" and "Y" are assigned to the dataset and "charges" column respectively.
 
@@ -115,7 +115,7 @@ The prediciton is assign:
 prediction = lr.predict(x_test)
 ```
 
-4. Final Interpretation
+# 4. Final Interpretation
 
 After the prediction is generated using linear regresion is possible to generate plots in order to understand the data.
 
